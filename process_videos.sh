@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Path to the folder containing the .mp4 files
-input_folder="path/to/input/folder"
-
 # Counter for enumerating output files
 counter=1
 
