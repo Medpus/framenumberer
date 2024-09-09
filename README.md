@@ -1,1 +1,1 @@
-Install FFMPEG, add it to PATH, and point this simple script to your input folder to get framenumbers on your videos.
+Install FFMPEG, add it to PATH, and run this simple script in a folder to get framenumbers on all .mp4 videos in that folder.
